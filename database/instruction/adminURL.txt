@@ -1,0 +1,1 @@
+admin url is: /login
